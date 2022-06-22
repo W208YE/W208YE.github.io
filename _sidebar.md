@@ -1,7 +1,7 @@
 * HTML
-  * [DOCTYPE](DOCTYPE.md)
-  * [script标签中defer和async的区别](script标签中defer和async的区别.md)
-  * [src和href的区别](src和href的区别.md)
+  * [DOCTYPE](HTML/DOCTYPE.md)
+  * [script标签中defer和async的区别](HTML/script标签中defer和async的区别.md)
+  * [src和href的区别](HTML/src和href的区别.md)
   
 * CSS
 
