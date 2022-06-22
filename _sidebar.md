@@ -4,17 +4,18 @@
   * [src和href的区别](HTML/src和href的区别.md)
 
 * JavaScript
-  * [JS学习笔记](JavaScript/JavaScript.md)
+  * [JS基础学习笔记](JavaScript/JavaScript.md)
+  * [var & let & const之间的区别](JavaScript/var%20%26%20let%20%26%20const%E5%8C%BA%E5%88%AB.md)
 
 * Ajax
-  * [Ajax学习笔记](Ajax/Ajax.md)
-  * [Axios学习笔记](Ajax/Axios.md)
+  * [Ajax基础学习笔记](Ajax/Ajax.md)
+  * [Axios基础学习笔记](Ajax/Axios.md)
 
 * Promise
-  * [Promise学习笔记](Promise/Promise.md)
+  * [Promise基础学习笔记](Promise/Promise.md)
 
 * Git
-  * [Git学习笔记](Git/Git.md)
+  * [Git基础学习笔记](Git/Git.md)
 
 * Vue
   * [1.Vue2](Vue/1.vue.md)
